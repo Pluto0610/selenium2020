@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30257" started-at="2019-03-05T07:59:14Z" finished-at="2019-03-05T07:59:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30257" started-at="2019-03-05T07:59:14Z" finished-at="2019-03-05T07:59:44Z">
+      <class name="com.testcase.xzbjcase">
+        <test-method status="PASS" signature="a1()[pri:0, instance:com.testcase.xzbjcase@c39f790]" name="a1" is-config="true" duration-ms="2683" started-at="2019-03-05T15:59:14Z" finished-at="2019-03-05T15:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="utils()[pri:0, instance:com.testcase.xzbjcase@c39f790]" name="utils" duration-ms="26373" started-at="2019-03-05T15:59:17Z" finished-at="2019-03-05T15:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utils -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:com.testcase.xzbjcase@c39f790]" name="a4" is-config="true" duration-ms="1192" started-at="2019-03-05T15:59:43Z" finished-at="2019-03-05T15:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- com.testcase.xzbjcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
